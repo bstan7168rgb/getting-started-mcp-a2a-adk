@@ -173,3 +173,13 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .adk/
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/
+.DS_Store
+
